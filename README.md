@@ -1,6 +1,6 @@
 # FLARE: Adaptive In-Network Learning for State-Aware Distributed Mitigation of Multi-Vector TCP Flag and Fragmentation Attacks in SD-IoT
 
-**FLARE** is a modular, high-performance framework for detecting, classifying, and mitigating TCP flag and IP fragmentation attacks in SDN-enabled IoMT/IoT networks. It integrates programmable data planes (P4) with multi-controller SDN architectures and an adaptive ML-based ensemble classifier for real-time response and mitigation.
+**FLARE** is a modular, high-performance framework for detecting, classifying, and mitigating TCP flag and IP fragmentation attacks in SDN-enabled IoT networks. It integrates programmable data planes (P4) with multi-controller SDN architectures and an adaptive ML-based ensemble classifier for real-time response and mitigation.
 
 ---
 
